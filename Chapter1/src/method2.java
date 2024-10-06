@@ -3,7 +3,7 @@
 public class method2 {
         public static void main(String args[]){
             Main6 obj1 = new Main6();
-            obj1.setData("rani",  "students");
+            obj1.setData("Sakshi",  "students");
             obj1.getData();
         }
     }
